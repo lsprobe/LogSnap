@@ -34,8 +34,24 @@ It reads. It never changes your system.
   <p><b>2. Choose how deep to scan</b></p>
   <img src="assets/screenshots/scan-choice.png" width="840" alt="Standard vs Deep scan" />
   <br/><br/>
-  <p><b>3. Get a ranked health summary, then export for AI</b></p>
+  <p><b>3. Get a ranked health summary</b></p>
   <img src="assets/screenshots/overview.png" width="840" alt="Overview health summary with ranked issues" />
+  <br/><br/>
+  <p><b>4. Export a clean Markdown report for AI</b></p>
+  <img src="assets/screenshots/export-dialog.png" width="440" alt="Prepare for AI Analysis export dialog" />
+  <br/><br/>
+  <p><b>5. Ready-to-share output files</b></p>
+  <img src="assets/screenshots/output-files.png" width="560" alt="Markdown output files produced by LogSnap" />
+</div>
+
+### Network mode - diagnose a remote PC
+
+<div align="center">
+  <p><b>Connect by IP, then pick the user profile to read</b></p>
+  <img src="assets/screenshots/network-connect.png" width="840" alt="Network mode connect and user profile picker" />
+  <br/><br/>
+  <p><b>Run read-only PowerShell on the remote machine (WMI + SMB, no WinRM)</b></p>
+  <img src="assets/screenshots/remote-powershell.png" width="840" alt="Remote PowerShell running on a remote machine" />
 </div>
 
 ## Why it is different
