@@ -25,6 +25,19 @@ files you can hand straight to an AI (or a colleague) for analysis.
 
 It reads. It never changes your system.
 
+## Screenshots
+
+<div align="center">
+  <p><b>1. Pick local or a remote computer</b></p>
+  <img src="assets/screenshots/mode-select.png" width="440" alt="Local or network mode selection" />
+  <br/><br/>
+  <p><b>2. Choose how deep to scan</b></p>
+  <img src="assets/screenshots/scan-choice.png" width="840" alt="Standard vs Deep scan" />
+  <br/><br/>
+  <p><b>3. Get a ranked health summary, then export for AI</b></p>
+  <img src="assets/screenshots/overview.png" width="840" alt="Overview health summary with ranked issues" />
+</div>
+
 ## Why it is different
 
 - **Read-only** - collects data, never modifies the machine.
