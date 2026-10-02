@@ -68,7 +68,8 @@ It reads. It never changes your system.
 
 ## What it collects
 
-Crashes & BSOD · minidump list · Reliability history · Shutdown/boot events ·
+Crashes & BSOD · minidump list · Reliability history · Shutdown/boot events
+(incl. what delayed a slow boot or shutdown) ·
 Disk health (SMART) · Disk space forensics · Hardware errors (WHEA) ·
 Memory diagnostic · GPU health · Problem devices · Power & sleep · Battery ·
 Performance evidence · User profile diagnostics · Security state (AV/firewall) ·
