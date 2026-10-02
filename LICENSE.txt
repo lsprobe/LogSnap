@@ -1,0 +1,35 @@
+LogSnap - End User License Agreement
+Copyright (c) 2026 LS. All rights reserved.
+
+This software ("LogSnap") is provided free of charge for personal and
+commercial use, subject to the terms below.
+
+1. Grant of use
+   You may download, install and use LogSnap, including in a professional
+   or commercial IT environment, at no cost.
+
+2. Restrictions
+   You may NOT:
+   a) sell, rent, sublicense or otherwise charge for LogSnap itself;
+   b) redistribute, mirror or bundle LogSnap without the author's written
+      permission (always link to the official release page instead);
+   c) reverse engineer, decompile, disassemble or modify the software, or
+      create derivative works from it;
+   d) remove or alter any branding, copyright or authorship notices.
+
+3. Ownership
+   LogSnap and its name, logo and design remain the exclusive property of
+   the author. This license grants use only, not ownership.
+
+4. No warranty
+   LogSnap is provided "AS IS", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose and non-infringement. The author is not
+   liable for any claim, damage, data loss or other liability arising from
+   the use of this software. You use it at your own risk.
+
+5. Read-only operation
+   LogSnap is designed to read and collect diagnostic data only. You remain
+   responsible for how you use and share the data it produces.
+
+By using LogSnap you agree to these terms.
